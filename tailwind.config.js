@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "url('/astronaut.jpg')",
+        "gradient-radial": "url('/magicpattern.jpg')",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
